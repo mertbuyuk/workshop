@@ -1,10 +1,10 @@
-package com.pia.workshop;
+package com.piaworkshop.task;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WorkshopApplicationTests {
+class TaskApplicationTests {
 
 	@Test
 	void contextLoads() {
